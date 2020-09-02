@@ -70,7 +70,7 @@ def main():
     st.success('The output is {}'.format(result))
     if st.button("About"):
         st.text("Please find the code at")
-        st.text("https://github.com/Lokeshrathi/Bangalore-house-s-rate")
+        st.text("https://github.com/radhikamynampati/Bangalore-house-s-rate")
 
 if __name__=='__main__':
     main()
